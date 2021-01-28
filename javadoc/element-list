@@ -1,0 +1,12 @@
+com.csd4020
+com.csd4020.controller
+com.csd4020.exceptions
+com.csd4020.model
+com.csd4020.model.Board
+com.csd4020.model.Board.TileAreas
+com.csd4020.model.cards
+com.csd4020.model.tiles
+com.csd4020.model.tiles.findings
+com.csd4020.view
+com.csd4020.view.TileAreas
+com.csd4020.view.TileLabels
